@@ -1,0 +1,4 @@
+Compact Petrol Car,5000,100,50,0.10
+Hybrid Car,7500,150,60,0.12
+Electric Car,10000,200,40,0.08
+Luxury SUV,15000,250,75,0.15

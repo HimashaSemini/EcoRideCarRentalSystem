@@ -1,0 +1,7 @@
+CBA 2258,Toyota Prius,Hybrid Car,7500.00,Reserved
+AAA 9090,Toyota Prius,Hybrid Car,7500.00,Reserved
+KWA 5165,BMW M5,Compact Petrol Car,5000.00,Under Maintenance
+KQD 7812,Nissan Leaf,Electric Car,10000.00,Reserved
+HGA 3301,Honda Fit,Compact Petrol Car,5000.00,Reserved
+BGA 1123,Range Rover,Luxury SUV,15000.00,Reserved
+NAP 4450,Benz CLS 200,Compact Petrol Car,5000.00,Reserved

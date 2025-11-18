@@ -1,0 +1,4 @@
+C001,P.U. Himasha Semini,200475963248,0768541566,hima123@gmail.com
+C002,G. Vihanga De Silva,200393214785,0765851056,vihanga@gmail.com
+C003,Thineth Himansa,20076598742,0712356987,thineth@gmail.com
+C004,Chathurani Indika,842156984V,0758963214,chathu@gmail.com
